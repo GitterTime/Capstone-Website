@@ -4,6 +4,10 @@ body {
     font-family:'Itim', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
+body {
+    text-align: center;
+}
+
 .underlined {
     text-decoration: underline;
 }
@@ -23,4 +27,8 @@ h1 {
     font-weight: 400;
     font-style: normal;
   }
+
+p {
+    line-height: 1.5;
+}
 
