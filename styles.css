@@ -8,6 +8,12 @@ body {
     text-align: center;
 }
 
+ol, ul {
+    margin: 0 auto;
+    width: 30%;
+    text-align:left;
+}
+
 .underlined {
     text-decoration: underline;
 }
