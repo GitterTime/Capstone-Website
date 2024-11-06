@@ -4,8 +4,13 @@ body {
     font-family:'Itim', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
+body {
+    text-align: center;
+}
+
 ol, ul {
     font-size: 30px;
+    text-align: left;
 }
 
 h1 {
@@ -56,4 +61,13 @@ h2 {
 }
 .sixth-paragraph {
     font-size: 24px;
+}
+
+.sixth-section {
+    font-size: 20px;
+    text-align: center;
+}
+
+.first-paragraph {
+    text-align: left;
 }
