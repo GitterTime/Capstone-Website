@@ -4,16 +4,6 @@ body {
     font-family:'Itim', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
-body {
-    text-align: center;
-}
-
-ol, ul {
-    margin: 0 auto;
-    width: 30%;
-    text-align: left;
-}
-
 ol, ul {
     font-size: 30px;
 }
