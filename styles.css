@@ -14,8 +14,8 @@ ol, ul {
     text-align:left;
 }
 
-.underlined {
-    text-decoration: underline;
+ol, ul {
+    font-size: 30px;
 }
 
 h1 {
@@ -26,6 +26,8 @@ h1 {
     
 h1 {
     font-family:'Itim', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: underline;
+    font-size: 60px;
 }
 
 .itim-regular {
@@ -35,6 +37,33 @@ h1 {
   }
 
 p {
+    line-height: 1;
+    text-decoration:underline;
+}
+
+h2 {
+    text-decoration:underline;
+    font-size: 48px;
+}
+
+.first-paragraph {
+    text-decoration:none;
+    font-size: 30px;
     line-height: 1.5;
 }
 
+.second-paragraph {
+    text-decoration:none;
+    font-size: 30px;
+    line-height: 1.5;
+}
+
+.third-paragraph {
+    text-decoration:none;
+    font-size: 30px;
+    line-height: 1.5;
+}
+
+.fifth-paragraph {
+    font-size: 24px;
+}
