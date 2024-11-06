@@ -11,7 +11,7 @@ body {
 ol, ul {
     margin: 0 auto;
     width: 30%;
-    text-align:left;
+    text-align: left;
 }
 
 ol, ul {
@@ -21,7 +21,7 @@ ol, ul {
 h1 {
     color:darkcyan;
     font-weight: 900;
-    font-style:italic;
+    font-style: italic;
     }
     
 h1 {
@@ -38,28 +38,28 @@ h1 {
 
 p {
     line-height: 1;
-    text-decoration:underline;
+    text-decoration: underline;
 }
 
 h2 {
-    text-decoration:underline;
+    text-decoration: underline;
     font-size: 48px;
 }
 
 .first-paragraph {
-    text-decoration:none;
+    text-decoration: none;
     font-size: 30px;
     line-height: 1.5;
 }
 
 .second-paragraph {
-    text-decoration:none;
+    text-decoration: none;
     font-size: 30px;
     line-height: 1.5;
 }
 
 .third-paragraph {
-    text-decoration:none;
+    text-decoration: none;
     font-size: 30px;
     line-height: 1.5;
 }
