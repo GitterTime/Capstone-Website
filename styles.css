@@ -29,6 +29,7 @@ header, section, footer {
 
 body {
     text-align: center;
+    border: 1px black;
 }
 
 ul {
@@ -44,7 +45,7 @@ ol {
 }
 
 h1 {
-    color:darkcyan;
+    color: gray;
     font-weight: 900;
     font-style: italic;
 }
@@ -101,12 +102,12 @@ h1 {
     border-bottom: 5px black;
 }
 
-img {
-    border: 5px black;
+img, iframe {
+    border: 25px solid black;    
 }
 
 .title, .second-section, .third-section, .third-paragraph {
-    border: 10px beige;
+    border: 10px solid black;
     background-color:  beige;
     margin: 60px;
     padding: 60 px;
