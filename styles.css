@@ -118,7 +118,7 @@ iframe {
 
 .title {
     font-size: 60px;
-    text-decoration: underline;
+    text-decoration: none;
     border: 25px solid black
 }
 
