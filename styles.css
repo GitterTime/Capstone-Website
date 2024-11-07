@@ -18,7 +18,7 @@ p {
 }
 
 body {
-    background-color:lightgray;
+    background-color:darkgray;
     color: black;
     font-family:'Itim', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -29,7 +29,6 @@ header, section, footer {
 
 body {
     text-align: center;
-    border: 1px black;
 }
 
 ul {
@@ -52,7 +51,6 @@ h1 {
     
 h1 {
     font-family:'Itim', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-decoration: underline;
     font-size: 60px;
 }
 
