@@ -130,28 +130,3 @@ iframe {
     margin: 60px;
     padding: 60px;
 }
-
-.penguin-crossing {
-    position: relative; /* allows positioning of .top left inside this container */
-    width: 100%; /* adjust as needed */
-    max-width: 600px; /* adjust as needed */
-    margin: 0 auto; /* centers the container */
-    border: 2px solid black; /* optional: adds a border around the container */
-    padding: 20px; /* optional: adds some padding inside the container */
-    text-align: center; /*centers the text inside the container */
-}
-
-.penguin-crossing img {
-    width: 100%; /* makes the image responsive */
-    height: auto; /* maintains the aspect ratio */
-    margin: 0 auto;
-}
-
-.top-left {
-    position: absolute; /*allows the text to be positioned relative to .penguin-crossing */
-    top: 10px; /*adjust as needed */
-    left: 10px; /* adjust as needed */
-    background-color: rgba(255, 255, 255, 0.7); /*optional: adds a semi-transparent background */
-    padding: 5px; /* optional: adds some padding around the text */
-    border-radius: 5px; /* optional: rounds the corners of the text box */
-}
