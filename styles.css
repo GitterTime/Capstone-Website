@@ -83,7 +83,7 @@ h2 {
 }
 
 h1 {
-    color: white;
+    color: beige !important;
     font-weight: 900;
     font-style: italic;
     font-family: 'Itim', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -95,6 +95,7 @@ h1 {
     text-align: center;
     margin: 60px;
     border-bottom: 5px black;
+    text-shadow: 5px 5px 10px black, -5px -5px 10px black, 5px -5px 10px black, -5px 5px 10px black;
 }
 
 img {
