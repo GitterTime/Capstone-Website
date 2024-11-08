@@ -111,12 +111,6 @@ img {
     padding: 60px;
 }
 
-.second-section {
-    background-image: url(C:\Users\HP\Desktop\SCHOOL\FNTC - FOUNDATIONS EXPLORATORY\FITC 130_ Web Development and Coding\Code\Website\Capstone-Website\images\snow-unsplash.jpg);
-    background-position: center;
-    background-size: cover;
-}
-
 iframe {
     border: 25px solid rgb(0, 0, 0);
     width: 700px;
